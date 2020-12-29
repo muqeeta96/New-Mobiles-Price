@@ -1,4 +1,4 @@
-# New Mobiles Prices
+# New Mobile Prices
 It help to find new mobile releases with their prices from specific company.
 
 **NOTE:** This program is written by using web scraping technique and only written for website www.whatmobile.com. Any change in this website front-end code can cause this program to stop
